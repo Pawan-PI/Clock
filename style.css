@@ -32,6 +32,7 @@ body{
     transform: rotate(calc(30deg * var(--i)));
     inset: 220px;
     text-align: center;
+    margin-right:50px;
     
     
 }
